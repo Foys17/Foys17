@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_URL_HERE" alt="Banner">
+  <img src="[YOUR_BANNER_URL_HERE](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)" alt="Banner">
 </p>
 
 <h1 align="center">Hi there, I'm Mahedy Hasan Foysal 👋</h1>
