@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Banner">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Banner">
 </p>
 
 <h1 align="center">Hi there, I'm Mahedy Hasan Foysal 👋</h1>
@@ -12,8 +12,10 @@
 </p>
 
 - 🌱 I’m currently specializing in **modern backend and frontend solutions**.
-- 💬 Ask me about **HTML, CSS, and JavaScript**.
+-  - 💻 Passionate about building AI-powered applications
+- 💬 Ask me about Python, Django, .NET, Machine Learning, Tailwind, Bootstrap, React.
 - 📫 How to reach me: **mhfoysal17@gmail.com**
+-  🗃️ Visit my portfolio at: **[foys17.github.io](https://foys17.github.io/Portfolio/)
 
 ---
 
