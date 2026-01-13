@@ -93,3 +93,8 @@ I am a **Full-Stack Developer** passionate about building scalable web applicati
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Foys17/Foys17/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
