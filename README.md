@@ -91,9 +91,4 @@ I am a **Full-Stack Developer** passionate about building scalable web applicati
   <img src="https://raw.githubusercontent.com/Foys17/Foys17/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-### Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Foys17/Foys17/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
