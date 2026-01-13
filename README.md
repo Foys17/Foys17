@@ -80,19 +80,12 @@ I am a **Full-Stack Developer** passionate about building scalable web applicati
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Foys17&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mahedy's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Foys17&layout=compact&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Foys17&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Foys17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Foys17&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+### Stats
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Foys17/Foys17/output/github-contribution-grid-snake-dark.svg" />
